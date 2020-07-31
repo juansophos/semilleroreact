@@ -1,7 +1,5 @@
 import React from "react";
 import Card from "../Card/index";
-import { Link, Redirect } from "react-router-dom";
-import Routes from "../../Routes/index";
 class ShowAll extends React.Component{
     constructor(props){
         super(props);

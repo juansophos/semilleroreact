@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, Route } from "react-router-dom";
 import  ShowAll  from "../Components/ShowAll/index";
-import styles from "./index.css";
 import Info from "../Components/Info/index";
 class Routes extends React.Component{
     

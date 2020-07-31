@@ -22,7 +22,6 @@ class Info extends React.Component{
         const {location:{character}}=this.props;
         if (character) {
             console.log(character);
-            const name= character.name;
             return(
             <div style={card} >
                 <h1>
