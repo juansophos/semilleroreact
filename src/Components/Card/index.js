@@ -8,7 +8,7 @@ const Card = ({character})=>{
             pathname:"/Info",
             character
         }}>
-                <img style={avatar} src={character.image}/>
+                <img alt="image" style={avatar} src={character.image}/>
         </Link>
                 <p>
                     <b>name:</b>{character.name}

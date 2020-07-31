@@ -45,7 +45,7 @@ const Home = () =>(
     <h1>
        Bienvenido a la Rick and morti dex 
     </h1>
-    <img style={{minHeight:"422px"}}
+    <img alt="image" style={{minHeight:"422px"}}
      src="https://thumbs.gfycat.com/GiantPastBobcat-size_restricted.gif"></img>
 </div>
 );
