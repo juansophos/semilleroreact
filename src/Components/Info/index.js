@@ -28,7 +28,7 @@ class Info extends React.Component{
                 <h1>
                     Info {character.name}
                 </h1>
-                <img alt="image nose" style={avatar} src={character.image} ></img>
+                <img alt="nose" style={avatar} src={character.image} ></img>
                 <p>
                     <b>name:</b>{character.name}
                 </p>
